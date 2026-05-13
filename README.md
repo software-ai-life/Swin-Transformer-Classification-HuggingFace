@@ -1,4 +1,4 @@
-# Swin-Transformer-classification-HuggingFace
+# Swin-Transformer-Classification-HuggingFace
 
 This project demonstrates how to use pre-trained models from the Hugging Face Transformers library to classify images. The model used in this project can identify various types of animals from images.
 The types of animals including scoiattolo, pecora, mucca, gatto, gallina, farfalla, elefante, cavallo and cane.
